@@ -84,7 +84,7 @@ essa tag.
 
 ##### Material de Apoio
 
-- Segue abaixo o layout no figma que deverá ser seguido para o desenvolvimento da aplicação, é muito importante que o desenvolvimeto tente seguir o mais fiel possivel o layout criado pelo nosso time de designers pois isso será avaliado tambem.
+- Segue abaixo o layout no figma que deverá ser seguido para o desenvolvimento da aplicação, esse layout é uma ponto de partida para ajudar no desenvolvimento, os textos e fluxos podem ser alterados pelo candidato de forma que mostre a sua criatividade que também será avaliada neste teste. É muito importante que o desenvolvimeto tente seguir o mais fiel possivel os componentes e cores criados pelo nosso time de designers pois isso será avaliado tambem.
 
 - [Link Layout Figma](https://www.figma.com/file/isf5nWFgZnaUVOEG2PXWt7/Teste-Front-End-Desktop)
 
